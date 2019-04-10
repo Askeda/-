@@ -1,0 +1,4 @@
+.zh ul{display: flex;justify-content: space-around;}
+.zh{width: 800px;margin: auto;}
+.zh ul li{border: 1px solid black;width: 220px;height: 350px;margin-left: 20px;background-color: #f5f5f5;}
+.zh ul li img{width: 220px;height: 200px;}

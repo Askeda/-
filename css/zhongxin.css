@@ -1,0 +1,5 @@
+.main{width: 1200px;border: 1px solid #A9A9A9;margin: auto;}
+.main_ul{width: 1000px;margin: auto;}
+.main_ul ul{display: flex;justify-content: center;margin-top: -154px;}
+.main_ul li{width: 180px;}
+.main_ul li img{width: 180px;}

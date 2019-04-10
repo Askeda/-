@@ -1,0 +1,5 @@
+.buttom{width: 100%;}
+.buttom_header_nav{width: 1200px; margin: auto;}
+.buttom_header_navte{position: absolute;margin-left: 0px;margin-top: 0px;z-index: 999;margin-left: 300px;margin-top: 10px;}
+.buttom_header_navte ul{ display: flex; justify-content: space-around;}
+.buttom_header_navte li{cursor: pointer; font-size: 14px;margin-left: 20px;}

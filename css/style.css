@@ -1,0 +1,51 @@
+*{padding: 0;margin: 0;}
+li{list-style: none;}
+
+
+/*头部*/
+.header{width: 100%;}
+.header_logo{margin-left: 250px; display: inline-block;}
+.header_logo img{width: 490px;height: 96px;}
+.header_right img{width: 25px; height: 20px;}
+.header_right{width: 191px;height: 96px;margin-left:967px;margin-top: -100px;}
+.header_right ul{display: flex;justify-content: space-around;}
+.header_right li{font-size: 12px;margin-left: 5px; cursor: pointer;}
+
+
+.nav{width: 100%;}
+.nav_text{width: 1200px;margin: auto;}
+.nav_ul{height: 60px;z-index: 999;position: absolute;margin-left: 40px;}
+.nav_ul ul{display: flex;justify-content: space-around;}
+.nav_ul li{font-size: 14px; color: #038dd8; cursor: pointer;line-height: 60px;margin-left: 50px;}
+.nav_header{position: absolute;margin-left: 0px;margin-top: 0px;z-index: 888;}
+.lun{width: 100%;position: absolute;z-index: 777;margin-top: 0px;}
+
+
+.main_one{width: 1200px;margin: auto;}
+.main_four ul{display: flex; justify-content: space-around;}
+.main_four li{cursor: pointer; width: 284px; height: 299px;}
+
+.main_baby{width: 100%; background-color: #f3fbfe;}
+.baby_img{display: inline-block;}
+.baby_right{}
+.baby_right_one{width: 592px; height: 600px; display: block;margin-top: -606px;margin-left: 602px;}
+.baby_right_two{width: 280px; height: 332px;display: block;margin-top: -334px;margin-left: 602px;}
+.baby_right_three{width: 280px; height: 332px; display: block;margin-top: -340px;margin-left: 913px;}
+
+
+.main_buttom{width: 1200px;margin: auto; border: 1px solid #e0e0e0;}
+
+.jian_left{width: 51px;height: 93px; margin-top: 47px;display: inline-block;}
+.jian_rigjt{width: 51px;height: 93px; margin-left: 1157px;margin-top: -80px;display: inline-block;}
+.main_buttom_ul{width: 996px; height: 225px;margin: auto;margin-top: -167px;}
+
+
+.main_buttom1 ul{ display: flex;justify-content: space-around; }
+.main_buttom1 li{cursor: pointer;margin-top: 47px;}
+.main_buttom1 img{width: 160px; height: 138px;}
+
+.buttom{width: 100%;}
+.buttom_header_nav{width: 1200px; margin: auto;}
+.buttom_header_navte{position: absolute;margin-left: 0px;margin-top: 0px;z-index: 999;margin-left: 300px;margin-top: 10px;}
+.buttom_header_navte ul{ display: flex; justify-content: space-around;}
+.buttom_header_navte li{cursor: pointer; font-size: 14px;margin-left: 20px;}
